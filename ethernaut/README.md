@@ -308,8 +308,6 @@ contract Exploit {
 玩家初始有token20个，想办法黑掉合约, 获取得更多Token
 
 ```
-
-
 **合约代码** :
 ```
 pragma solidity ^0.4.18;
