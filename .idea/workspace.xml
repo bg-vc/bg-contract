@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c21c676-0d48-46be-84f4-ba0fc18dfc9c" name="Default Changelist" comment="" />
+    <list default="true" id="4c21c676-0d48-46be-84f4-ba0fc18dfc9c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ethernaut/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ethernaut/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.14.2_1/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jv4SVGjPt4Uuo3e7ascMN00Olw" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -32,5 +37,19 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="211" y="0" key="CommitChangelistDialog2" timestamp="1604673091594">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="211" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1604673091594" />
+    <state x="220" y="127" key="Vcs.Push.Dialog.v2" timestamp="1604673224399">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="220" y="127" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1604673224399" />
   </component>
 </project>

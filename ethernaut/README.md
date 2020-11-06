@@ -338,13 +338,6 @@ contract Token {
 **分析** :
 ```
  问题代码:
-  function transfer(address _to, uint _value) public returns (bool) {
-    require(balances[msg.sender] - _value >= 0);
-    balances[msg.sender] -= _value;
-    balances[_to] += _value;
-    return true;
-  }
-    
  balances[msg.sender]和_value都是无符号整数, 无论他们如何相减,结果都大于或等于0
  整数下溢, 20-21=2^256-1
    
