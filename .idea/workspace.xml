@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c21c676-0d48-46be-84f4-ba0fc18dfc9c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ethernaut/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ethernaut/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,13 +43,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="211" y="0" key="CommitChangelistDialog2" timestamp="1604673593628">
+    <state x="211" y="0" key="CommitChangelistDialog2" timestamp="1604673648563">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="211" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1604673593628" />
-    <state x="220" y="127" key="Vcs.Push.Dialog.v2" timestamp="1604673599449">
+    <state x="211" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1604673648563" />
+    <state x="220" y="127" key="Vcs.Push.Dialog.v2" timestamp="1604673653855">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="220" y="127" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1604673599449" />
+    <state x="220" y="127" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1604673653855" />
   </component>
 </project>
